@@ -353,6 +353,9 @@ nav ul li a:hover::after {
 .section-projects {
   width: 100%;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   padding: 100px 50px;
   background-color: var(--bg-primary);
   color: var(--text-color);
