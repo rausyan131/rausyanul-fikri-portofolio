@@ -17,6 +17,7 @@
   width: 100%;
   background-color: var(--bg-primary);
   z-index: -1000;
+  overflow-x: hidden;
 }
 
 .logo {
